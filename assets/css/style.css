@@ -1,17 +1,26 @@
 
-
+/* trying to get css linked */
 body {
     border: 3px solid #73AD21;  
 }
 
-h1 {
-    color: white;
+h1{
+    color: rgb(238, 18, 18);
     text-align: center;
 }
 #phila{
     border: 50px dotted rgb(142, 240, 6); 
 }
 
+#message-box{  height: 200px;
+}
+
+footer {
+    padding: 1em;
+    color: white;
+    background-color: rgb(100, 113, 116);
+    clear: left;
+    text-align: center;
 
 /* beggining of portfolio css */
 .floating-box {
