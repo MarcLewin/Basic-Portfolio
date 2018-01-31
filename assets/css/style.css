@@ -1,15 +1,68 @@
 
 /* trying to get css linked */
 body {
-    border: 3px solid #73AD21;  
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     background-color: #fcf5f5;
 }
 
 h1{
-    color: rgb(238, 18, 18);
+    color: white;
     text-align: center;
+    background-color: #4aaaa5;
+    width: 33%;
+    Padding: 30;
+    float: left;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+
+}
+#hr1{
+    clear: both;
+    overflow: auto;
+    width: 100%;
+}
+
+#three{
+    text-align: right;
+    margin-right: 60px; 
+    padding-top: 25px;
+    
+}
+
+h2{
+    color:#4aaaa5;
+}
+
+.container{
+
+}
+.about{
+    border: 1px #dddddd;
+    background: #ffffff;
+    width: 650px;
+}
+
+.connect{
+    float: left;
+    width: 270px;
+    border: 1px #dddddd;
+    background: #ffffff;
+    color:#4aaaa5;
+
+}
+
+
+#index-pic{
+    clear: both;
+    float: left;
+    width: 215px;
+    height: 162px;
+    padding: 10px;
+
 }
 #phila{
     border: 50px dotted rgb(142, 240, 6); 
+    clear: both;
+    overflow: auto;
 }
 
 #message-box{  height: 200px;
@@ -19,7 +72,7 @@ footer {
     padding: 1em;
     color: white;
     background-color: rgb(100, 113, 116);
-    clear: left;
+    clear: both;
     text-align: center;
 
 /* beggining of portfolio css */
