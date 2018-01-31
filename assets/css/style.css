@@ -51,7 +51,7 @@ h2{
     border: 1px #dddddd;
     background: #ffffff;
     color:#4aaaa5;
-    position: fixed; right: 80px; top: 100px;
+    position: absolute; right: 80px; top: 100px;
 }
 
 
