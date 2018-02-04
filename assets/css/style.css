@@ -10,10 +10,12 @@ h1{
     text-align: center;
     background-color: #4aaaa5;
     width: 25%;
-    Padding: 30;
     float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-family: 'Georgia', Times, "Times New Roman", serif;
     margin-left: 100px;
+    border-color: #cccccc;
 
 }
 #hr1{
@@ -26,6 +28,7 @@ h1{
     text-align: right;
     margin-right: 250px; 
     padding-top: 25px;
+    margin-top: -30px;
     
 }
 
@@ -88,6 +91,7 @@ h2{
     width: 650px;
     margin-top: 20px;
     margin-left: 100px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 }
 
@@ -108,12 +112,17 @@ h2{
 }
 #firstname{
     color: rgb(204,191,183);
+    width: 550px;
+    
 }
 
 #email{
     color: rgb(204,191,183);
+    width: 550px;
 }
-#message-box{  height: 200px;
+#message-box{  
+    height: 200px;
+    width: 550px;
 }
 
 footer {
